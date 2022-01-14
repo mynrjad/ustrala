@@ -1,0 +1,721 @@
+body {
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+ul.a {
+  font-family: 'Scope One', serif;
+  font-size: 22px;
+}
+h1.a {
+  font-family: 'Trochut', cursive;
+  font-size: 66px;
+  position: absolute;
+}
+p.aa {
+  font-family: 'Scope One', serif;
+  font-size: 22px;
+  position: absolute;
+}
+div.b {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size: 22px;
+  position: absolute;
+  top: 355px;
+}
+img.aa { 
+  position: absolute;
+  left: 720px;
+  width: 600px;
+}
+h1 {
+    font-family: 'Trochut', cursive;
+    font-size: 66px;
+    position: absolute;
+}
+img.a {
+    position:absolute; 
+    width: 213px;
+    left: 146px;
+    top: 200px;
+}
+img.b {
+    position:absolute;
+    width: 213px;
+    left: 600px;
+    top: 200px;
+}
+img.c {
+    position:absolute;
+    width:213px;
+    left:1100px;
+    top:200px;
+}
+img.d {
+    position:absolute;
+    width:213px;
+    left: 372px;
+    top: 560px;
+}
+img.e {
+    position: absolute;
+    width:213px;
+    left: 850px;
+    top: 560px;
+}
+p.a {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 157px;
+    top: 450px;
+}
+p.b {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 170px;
+    top: 500px;
+}
+p.c {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 622px;
+    top: 450px  ;
+}
+p.d {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 638px;
+    top: 500px;
+}
+p.e {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 1104px;
+    top: 450px;
+}
+p.f {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 1132px;
+    top: 500px;
+}
+p.g {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 380px;
+    top: 812px;
+}
+p.h {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 390px;
+    top: 870px;
+}
+p.i {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 860px;
+    top: 812px;
+}
+p.j {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 869px;
+    top: 870px;
+
+
+
+
+}
+.ul {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+  }
+  .li1{
+      position: absolute;
+      width: 70px;
+      height: 39px;
+      left: 505px;
+      top: 69px;
+  }
+  .li2{
+      position: absolute;
+      width: 58px;
+      height: 39px;
+      left: 620px;
+      top: 69px;
+  }
+  .li3{
+      position: absolute;
+      width: 114px;
+      height: 39px;
+      left: 723px;
+      top: 69px;
+  }
+  .li4{
+      position: absolute;
+      width: 152px;
+      height: 39px;
+      left: 837px;
+      top: 69px;
+  }
+  .li5{
+      position: absolute;
+      width: 152px;
+      height: 39px;
+      left: 1010px;
+      top: 70px;
+  }
+  .TT1{
+      position: absolute;
+      width: 470px;
+      height: 269px;
+      left: 257px;
+      top: 260px;
+  }
+  .ppar{
+      font-family: Trochut;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 66px;
+      line-height: 78px;
+      text-align: right;
+      font-feature-settings: 'tnum' on, 'onum' on;
+  
+      color: #000000;
+  }
+  .coontent{
+      position: absolute;
+      width: 357px;
+      height: 395px;
+      left: 303px;
+      top: 551px;
+  }
+  .ppar1{
+      font-family: Scope One;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+      text-align: justify;
+  
+      color: #000000;
+  }
+  .coover{
+      position: absolute;
+      width: 520px;
+      height: 541px;
+      left: 795px;
+      top: 394px;
+  }
+  .TT2{
+      position: absolute;
+      width: 470px;
+      height: 269px;
+      left: 550px;
+      top: 1135px;
+  }
+  .ppar2{
+      font-family: Trochut;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 66px;
+      line-height: 78px;
+      text-align: center;
+      font-feature-settings: 'tnum' on, 'onum' on;
+  
+      color: #000000;
+  
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .coover1{
+      position: absolute;
+      width: 319px;
+      height: 352px;
+      left: 291px;
+      top: 1059px;
+  }
+  .coontent1{
+      position: absolute;
+      width: 272px;
+      height: 39px;
+      left: 649px;
+      top: 1411px;
+  }
+  .pp1{
+      font-family: Scope One;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+  
+      color: #6052FA;
+  }
+  .coontent2{
+      position: absolute;
+      width: 885px;
+      height: 579px;
+      left: 450px;
+      top: 1568px;
+  }
+  .ppar3{
+      font-family: Scope One;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+      text-align: justify;
+  
+      color: #000000;
+  }
+  .coover2{
+      position: absolute;
+      width: 27px;
+      height: 26px;
+      left: 642px;
+      top: 1976px;
+  }
+  .coover3{
+      position: absolute;
+      width: 31px;
+      height: 30px;
+      left: 718px;
+      top: 1972px;
+  }
+  .coover4{
+      position: absolute;
+      width: 27px;
+      height: 27px;
+      left: 798px;
+      top: 1976px;
+
+
+
+
+
+
+
+  }
+
+  .ul.a {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+  }
+  .li{
+      position: absolute;
+      width: 70px;
+      height: 39px;
+      left: 505px;
+      top: 69px;
+  }
+  .li{
+      position: absolute;
+      width: 58px;
+      height: 39px;
+      left: 620px;
+      top: 69px;
+  }
+  .li{
+      position: absolute;
+      width: 114px;
+      height: 39px;
+      left: 723px;
+      top: 69px;
+  }
+  .li{
+      position: absolute;
+      width: 152px;
+      height: 39px;
+      left: 837px;
+      top: 69px;
+  }
+  .li{
+      position: absolute;
+      width: 152px;
+      height: 39px;
+      left: 1010px;
+      top: 70px;
+  }
+  .covers{
+      position: absolute;
+      width: 236px;
+      height: 570px;
+      left: 147px;
+      top: 301px;
+  }
+  .coverss{
+      position: absolute;
+      width: 235px;
+      height: 569px;
+      left: 443px;
+      top: 430px;
+  }
+  .t3{
+      position: absolute;
+      width: 470px;
+      height: 269px;
+      left: 801px;
+      top: 237px;
+  }
+  .hah{
+      font-family: Trochut;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 66px;
+      line-height: 78px;
+      text-align: center;
+      font-feature-settings: 'tnum' on, 'onum' on;
+  
+      color: #000000;
+  }
+  .t4{
+      position: absolute;
+      width: 272px;
+      height: 39px;
+      left: 913px;
+      top: 506px;
+  }
+  .huh{
+      font-family: Scope One;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+  
+      color: #6052FA;
+  }
+  .content2{
+      position: absolute;
+      width: 513px;
+      height: 271px;
+      left: 780px;
+      top: 674px;
+  }
+  .par3{
+      font-family: 'Scope One',serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+      text-align: justify;
+  
+      color: #000000;
+  }
+  .coversss{
+    position: absolute;
+    width: 27px;
+    height: 50px;
+    left: 642px;
+    top:1050px;
+}
+.coverssss{
+    position: absolute;
+    width: 31px;
+    height: 50px;
+    left: 718px;
+    top: 1050px;
+}
+.coversssss{
+    position: absolute;
+    width: 27px;
+    height: 50px;
+    left: 798px;
+    top: 1050px;
+}
+
+  ul.a{
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+}
+h1{
+    font-family: 'Trochut', cursive;
+    font-size:66px;
+    position:absolute;
+}
+a.a{
+   color: cornflowerblue;
+   font-family: 'Scope One', serif;
+    font-size: 22px;
+}
+p.k{
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 215px;
+    top: 590px;
+}
+a.b{
+    color: cornflowerblue;
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    left: 200px;
+    top: 800px;
+}
+p.l{
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 215px;
+    top: 890px;
+}
+a.c{
+    color: cornflowerblue;
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    left: 200px;
+    top: 1100px;
+}
+p.m{
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 215px;
+    top: 1190px;
+}
+a.v{
+    color: cornflowerblue;
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    height: 150px;
+    left: 500px;
+    top: 1420px;
+}
+ul.a{
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+}
+h1{
+    font-family: 'Trochut', cursive;
+    font-size:66px;
+    position:absolute;
+    top: 50px;
+}
+.iframe-container{
+    position: relative;
+    padding-bottom: 56.25%;
+}
+.iframe-container iframe{
+    position:absolute;
+    top: 400px;
+    left: 340px;
+    height:50%;
+    width: 50%;
+}
+.aiframe-container{
+    position: relative;
+    padding-bottom: 56.25%;
+}
+.aiframe-container iframe{
+    position:absolute;
+    top: 200px;
+    left: 340px;
+    height: 50%;
+    width: 50%;
+}
+ul.a {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+  }
+  .li1{
+      position: absolute;
+      width: 70px;
+      height: 39px;
+      left: 505px;
+      top: 69px;
+  }
+  .li2{
+      position: absolute;
+      width: 58px;
+      height: 39px;
+      left: 620px;
+      top: 69px;
+  }
+  .li3{
+      position: absolute;
+      width: 114px;
+      height: 39px;
+      left: 723px;
+      top: 69px;
+  }
+  .li4{
+      position: absolute;
+      width: 152px;
+      height: 39px;
+      left: 837px;
+      top: 69px;
+  }
+  .li5{
+      position: absolute;
+      width: 152px;
+      height: 39px;
+      left: 1010px;
+      top: 70px;
+  }
+  .T1{
+      position: absolute;
+      width: 470px;
+      height: 269px;
+      left: 257px;
+      top: 260px;
+  }
+  
+  .tt1{
+      position: absolute;
+      width: 470px;
+      height: 269px;
+      left: 485px;
+      top: 228px;
+  }
+  .hh2{
+      font-family: Trochut;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 66px;
+      line-height: 78px;
+      text-align: center;
+      font-feature-settings: 'tnum' on, 'onum' on;
+  
+      color: #000000;
+  }
+  .tt2{
+      position: absolute;
+      width: 470px;
+      height: 269px;
+      left: 584px;
+      top: 498px;
+  }
+  .hh3{
+      font-family: Scope One;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+  
+      color: #6052FA;
+  }
+  .contentt1{
+      position: absolute;
+      width: 957px;
+      height: 131px;
+      left: 236px;
+      top: 651px;
+  }
+  .parr1{
+      font-family: Scope One;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+      text-align: justify;
+  
+      color: #000000;
+  }
+  .tt3{
+      position: absolute;
+      width: 470px;
+      height: 269px;
+      left: 236px;
+      top: 896px;
+  }
+  .hh4{
+      font-family: Trochut;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 66px;
+      line-height: 78px;
+      font-feature-settings: 'tnum' on, 'onum' on;
+  
+      color: #000000;
+  }
+  .bcg1{
+      position: absolute;
+      width: 572px;
+      height: 572px;
+      left: 434px;
+      top: 961px;
+  }
+  .bcg2{
+      position: absolute;
+      width: 208px;
+      height: 208px;
+      left: 1006px;
+      top: 1325px;
+  }
+  .coverr{
+      position: absolute;
+      width: 443px;
+      height: 369px;
+      left: 692px;
+      top: 904px;
+      box-shadow: 17px 15px 39px -5px rgba(0, 0, 0, 0.25);
+  }
+  .coverr1{
+      position: absolute;
+      width: 554px;
+      height: 369px;
+      left: 236px;
+      top: 1215px;
+      filter: drop-shadow(13px 14px 24px rgba(0, 0, 0, 0.25));
+  }
+  .coverr2{
+      position: absolute;
+      width: 453px;
+      height: 453px;
+      left: 816px;
+      top: 1215px;
+  }
+  .contentt2{
+      position: absolute;
+      width: 957px;
+      height: 180px;
+      left: 231px;
+      top: 1782px;
+  }
+  .parr2{
+      font-family: Scope One;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 22px;
+      line-height: 30px;
+      text-align: justify;
+  
+      color: #000000;
+  }
+  .coverr3{
+      position: absolute;
+      width: 27px;
+      height:50px;
+      left: 628px;
+      top: 2150px;
+  }
+  .coverr4{
+      position: absolute;
+      width: 31px;
+      height:50px;
+      left: 704px;
+      top: 2150px;
+  }
+  .coverr5{
+      position: absolute;
+      width: 27px;
+      height: 50px;
+      left: 784px;
+      top: 2150px;
+  }
